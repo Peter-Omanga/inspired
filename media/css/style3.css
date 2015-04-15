@@ -1,0 +1,23 @@
+
+body{
+margin:0 Auto;
+font-family:new times romans;
+
+}
+p {
+font-size:15px;
+padding-left: 13px;
+
+
+}
+h3{
+padding-left: 400px;
+background-color: blue;
+color: white;
+}
+h5{
+padding-left:7px;
+}
+h5:hover{
+color: red;
+}
